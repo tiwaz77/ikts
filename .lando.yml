@@ -1,0 +1,17 @@
+name: ikt
+services:
+  hugo:
+    type: go
+    port: 80
+    scanner: false
+    build_as_root:
+      - helpers/install-hugo.sh
+proxy:
+  hugo:
+    - ikt.lndo.site:80
+tooling:
+  hugo:
+    service: hugo
+  server:
+    service: hugo
+    cmd: helpers/run-hugo-server.sh http://ikt.lndo.site
