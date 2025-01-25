@@ -1,0 +1,9 @@
+{{ define "main" }}
+  <article>
+    <h1 class="font-gothic">{{ .Title }}</h1>
+    <section>
+        {{ .Content }}
+    </section>
+  </article>
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+{{ end }}

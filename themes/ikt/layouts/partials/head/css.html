@@ -1,0 +1,15 @@
+{{- with resources.Get "css/bootstrap.min.css" }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
+{{- end }}
+{{ $stylesheets := slice "css/jquery.fancybox-2.1.5.css" "css/style.css" }}
+{{- range $stylesheets }}
+  {{- with resources.Get . }}
+    {{- if eq hugo.Environment "development" }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}">
+    {{- else }}
+      {{- with . | minify | fingerprint }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}

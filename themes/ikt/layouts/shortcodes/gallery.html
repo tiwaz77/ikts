@@ -1,0 +1,18 @@
+{{- $size := .Get `size` }}
+<div class="container">
+  <div class="row">
+    {{ range page.Resources.ByType "image" }}
+      <div class="col-xs-12 col-sm-4">
+        <a href="{{ .RelPermalink }}" class="fancybox">
+          <img class="img-responsive" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+        </a>
+      </div>
+    {{ end }}
+  </div><!-- /.row -->
+</div><!-- /.container -->
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        console.log('ready');
+	$(".fancybox").fancybox();
+    });
+</script>

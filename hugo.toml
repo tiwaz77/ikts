@@ -1,0 +1,35 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-gb'
+title = 'Integrated Kun Tao'
+theme = 'ikt'
+
+[[menus.main]]
+name = 'About'
+pageRef = '/about'
+weight = 10
+
+[[menus.main]]
+name = 'GM Brian Jones'
+pageRef = '/gm-brian-jones'
+weight = 20
+
+[[menus.main]]
+name = 'Ricky Crofts'
+pageRef = '/ricky-crofts'
+weight = 30
+
+[[menus.main]]
+name = 'Classes'
+pageRef = '/classes'
+weight = 40
+
+[[menus.main]]
+name = 'More...'
+pageRef = '/more'
+weight = 40
+
+
+[[menus.main]]
+name = 'Contact'
+pageRef = '/contact'
+weight = 40
