@@ -4,32 +4,31 @@ title = 'Integrated Kun Tao'
 theme = 'ikt'
 
 [[menus.main]]
-name = 'About'
-pageRef = '/about'
+name = 'News'
+pageRef = '/news'
 weight = 10
 
 [[menus.main]]
-name = 'GM Brian Jones'
-pageRef = '/gm-brian-jones'
+name = 'About'
+pageRef = '/about'
 weight = 20
 
 [[menus.main]]
 name = 'Ricky Crofts'
-pageRef = '/ricky-crofts'
+pageRef = '/ricky'
 weight = 30
+
+[[menus.main]]
+name = 'Lineage'
+pageRef = '/brian'
+weight = 40
 
 [[menus.main]]
 name = 'Classes'
 pageRef = '/classes'
-weight = 40
-
-[[menus.main]]
-name = 'More...'
-pageRef = '/more'
-weight = 40
-
+weight = 50
 
 [[menus.main]]
 name = 'Contact'
 pageRef = '/contact'
-weight = 40
+weight = 60

@@ -1,15 +1,20 @@
-# Welcome
+# Welcome to 
+#### the homepage of
+### A Kun Tao
+### Integrated form of three ancient martial arts
 
-To the homepage of the [Integrated Kun Tao System](about). It is comprised of
-three main Martial arts; Tai Chi Chuan, Wing Chun/Kadena de mano and Escrima.
-Originally founded and developed by [GM Brian Jones](gm-brian-jones), today
-headed by [Master Ricky Crofts](ricky-crofts).
 
-### We wish everybody a Happy, healthy and prosperous new year.
 
-**Yearly gathering/Seminar in Bonn, Germany from Friday the 7th to Sunday the
-9th of March.**
+About BJIKTS [Brian Jones Integrated Kun Tao System](about). 
 
-Contact: [tom.werkhaeuser@web.de](mailto:tom.werkhaeuser@web.de)
+Head of the system [Master Ricky Crofts](ricky).
 
-![Bonn group 2024](images/Bonn24-Group-1024x768.jpeg)
+Originally founded and developed by [GM Brian Jones](brian), 
+
+
+
+#### Who we are...
+
+ A family of like-minded practisioners with all sorts of backgrounds, united under the idea of Integrating and studying Martial Arts, Health and well-being.
+
+![Bonn group 2024](images/Bonn24-Group.jpeg)
