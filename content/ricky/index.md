@@ -1,4 +1,4 @@
-## Ricky:
+# Ricky Crofts
 
 The martial arts started for me in the early 1970s while at school. Judo and Boxing were first and a good base to build on.
 The day after leaving school I joined the Royal Marine Commandos. Over the next decade unarmed combat featured strongly. While in 42 Commando I was in an unarmed combat display team which went around the country and did the royal tournament in 1979 displaying unarmed combat, martial arts and abseiling.
@@ -11,12 +11,9 @@ Thank you Brian.
 
 ![ricky-brian](images/ricky&brian.jpg)
 
-<br>
-<br>
-<br>
-<br>
+&emsp;
 
-## Extended Biography
+# Extended Biography
 
 Tim our friend and website organiser from Belgium has asked me to write an extended autobiography for our site.  Initially my feelings were reticent, as I was brought up old school,  'self praise is no true recommendation.'
 On reflection we all need to be in the present moment. 
@@ -25,11 +22,21 @@ Being honoured and trusted by Brian to carry the baton of his life's work forwar
 Born the last day of April 1962 in Newmarket hospital. Given the names Ricky William Crofts by my mum.  My family were farm labourers who moved very regularly due to mechanisation taking over from the hoe and pitch folk.  A dysfunctional Waltons family that travelled like nomads. 
 Most of the first 16 years of life were under the guardianship of my grandmother.  She was unknowingly my first martial arts teacher.  A matriarchal overbearing figure (17 stones) from the old school philosophy 'no pain,  no gain.'  If you had an opinion not matching hers or stepped out of line, corporal punishment or verbal chastisement could well follow.  She could punch or strike as well as most men.  So intuitive movement and self defence came instinctive.  I guess the 1960s and 70s functional and dysfunctional parenting for some.
 
-![weightlifting](images/rickyweightlift.jpeg) &emsp; ![uniform](images/ricky-uniform.jpg )
+&emsp;
 
 In those early school years my recreation and delight was kicking a football every spare moment.  I learnt some boxing, wrestling and weightlifting from a school teacher, friend and good souls Laurie and uncle Bill. 
+
+![weightlifting](images/rickyweightlift.jpeg)
+
+&emsp;
+
 My first job from 13 to 16 years was a butchers boy for a local butcher Jim.  He had faith in me,  even though the delivery bike with basket was too big for me to touch the ground. 
-A good friend David who was a customer on the butcher boy delivery round, would give me books to read on spiritual wisdom and cultures from around the world. It helped me understand that all area's of the world have wonderful wisdom.  He also helped me realise the logic of joining the military.  It made sense,  as I would get paid to travel,  fight and defend myself. 
+A good friend David who was a customer on the butcher boy delivery round, would give me books to read on spiritual wisdom and cultures from around the world. It helped me understand that all area's of the world have wonderful wisdom.  He also helped me realise the logic of joining the military.  It made sense,  as I would get paid to travel,  fight and defend myself.
+
+![uniform](images/ricky-uniform.jpg)
+
+&emsp;
+
 So after much polite pestering at the military careers office I was given a join up date 11th July 1978. The day after leaving school,  no time to loiter. 
 
 ![commando](images/commando.jpeg)
@@ -37,8 +44,7 @@ So after much polite pestering at the military careers office I was given a join
 *Whatever appears on life's path, know that within You is a sanctuary and spirit more valuable than all the earthly treasures. 
 Just go within to discover an infinite stillness and calm that's always been there!*
 
-<br>
-<br>
+&emsp;
 
 I graduated from Commando training centre, Lympstone 10 months later. Receiving or earning the Commando medal for Commando spirit.
 From Lympstone I was posted 42 Commando,  Bickleigh.  After this to Hamworthy barracks,  Poole. Then to Royal Marines Condor, Arbroath, Scotland.  At each posting I trained in various martial arts between overseas deployments. I travelled to 14 countries.  The deployment that influenced my love of martial arts was Hong Kong and the then Chinese border.  Watching people at 4 am enter their gardens to do slow, flowing, calming movements influenced me immensely. My love of Tai Chi Chuan was planted. 
@@ -46,15 +52,14 @@ While in 42 Commando  I was part of an unarmed combat, martial arts and abseilin
 
 ![royal tournament](images/royaltounament.jpeg)
 
+&emsp;
+
 When I came out of the  military in the very late 80s I carried on training Lau Gar Kung Fu and kickboxing.  It was during this time,  thanks to a friend also called Tim,  that I met my most influential martial arts teacher Grandmaster Brian. 
 After almost 30 years training with Brian,  what lessons and principles have I learnt?
 
 ![alt text](images/ricky2.JPG)
 
-<br>
-<br>
-<br>
-<br>
+&emsp;
 
 ## Tai Chi, The Mind and Life
 

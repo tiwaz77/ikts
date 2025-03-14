@@ -1,28 +1,29 @@
 # About
 
+![alt text](BrianRicky-web.jpg "Ricky expressing the feeling of his teachers energy")
+
 It was Brian’s vision to combine and blend all the different techniques and 
 concepts of the various styles he’d learned into the creation of a blended 
-system of ‘Chinese Boxing’, 
+system of ‘Chinese Boxing’, later adding also Escrima into the mix, being the first in the UK to train, teach and promote Escrima.
 
-![alt text](BrianRicky-web.jpg)
+GM Brian kept teaching this evolved Fighting style which eventually  became the 
 
-later adding also Escrima into the mix, being the first in the UK to train, teach and promote Escrima.
+**"Brian Jones Integrated Kun Tao System".**
 
-GM Brian kept teaching this evolved Fighting style which eventually  became the "Brian Jones Integrated Kun Tao System".
+Comprised of three major styles: Tai Chi Chuan, Wing Chun and Escrima.
 
-
-<br>
-<br>
-<br>
+&emsp;
 
 # **Kun Tao Tai Chi Chuan**
 
 ![taichi logo](logotaichi.jpg)
 
+***
+
 Is a Malaysian variation of the Long Form of the Yang Family, as it
 was taught by the late GM Leong Fu and our late GM Brian Jones.
 
-![fairlady](fairlady.jpg)
+![fairlady](fairlady.jpg "Application of 'Fair lady works the shuttle' ")
 
 108 moves on the right side, then on the left hand side which balances the body
 
@@ -36,17 +37,19 @@ Joint Hand Operations, active steps (Huo Pu Tui Chou)
 
 Five Steps and Entrances of Kun Tao Tai Chi (Ta Lu - four corner exercise)
 
-<br>
+&emsp;
 
 This is followed by the Kun Tao Tai Chi Chuan Weapons
 
-Narrow Sword (Fan optional for women)
+Narrow Sword ("Fan optional for women")
 
 Broad Sword
 
 Spear
 
-![alt text](rickyspear.JPG)
+![alt text](rickyspear.JPG "Ricky showing how to use the spear under watchfull eye of his teacher")
+
+&emsp;
 
 # **Wing Chun** 
 
@@ -54,7 +57,7 @@ Is the system as it was taught to GM Brian by GM Wong Waichung / Greco Wong.
 
 Additionally influences from the unarmed side of Escrima (Kadena de mano) have been implemented as part of the complete Integrated Kun Tao System.
 
-![wingchun](wingchun.JPG)
+![wingchun](wingchun.JPG "Master Jay Dobrin interacting with his teacher GM Brian Jones")
 
 The Traditional Wing Chun Syllabus comprises of:
 
@@ -77,17 +80,21 @@ Butterfly Knives
 
 There are also Wooden Dummy Techniques unique to the Wing Chun System.
 
+&emsp;
+
 # **Escrima** 
 
 Is a Filipino Martial Art with focus on weapons such as sticks, machettes and knives, as it was taught by GM Rene Latosa
 
 The Latosa system is simple and direct, it revolves around five strikes. 
 
-![escrima](escrima.JPG)
+![escrima](escrima.JPG "Brian and Ricky teaching Escrima in Belgium 2009")
 
 The five strikes gives the basis for all attacks and defences, combined with triangle footwork and eliptial motion of movements.
 
 The system is taught in 12 student grades alongside a form. The form is GM Brian's contribution to the latosa system.
+
+&emsp;
 
 # **Integrated Kun Tao** 
 
@@ -97,7 +104,7 @@ An unarmed two person set which integrates all three arts.
 
 Two forms specially designed for the Kuntao knives
 
-![knives](kuntao-knives.jpg)
+![knives](kuntao-knives.jpg "Kuntao knives")
 
 Basic self-defence techniques
 
@@ -107,10 +114,12 @@ Black Tiger Form
 
 and more...
 
+&emsp;
+
 # **Grading**
 
 Gradings are optional and/or awarded on merit and dedication.
 
-![certificate](certificate.jpeg)
+![certificate](certificate.jpeg "Official certificate")
 
 ![Grading Bonn 2025](grading2025.jpeg "Grading awarded in Bonn 2025")
