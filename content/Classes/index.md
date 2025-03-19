@@ -1,6 +1,10 @@
 # Classes
 
-### United Kingdom
+&emsp;
+
+#### ![flag uk](en.gif) United Kingdom ![flag uk](en.gif)
+
+&emsp;
 
 **Peterborough**
 
@@ -14,12 +18,9 @@ Class on Thursdays from 7PM to 9PM
 
 Contact: 07715 524604 or [mailto: ricky](ricky.crofts@hotmail.co.uk)
 
-
 **Peterborough**
 
 Master Mark Corcoran
-
-[classes](https://simplychi.co.uk/classes#page-content)
 
 [www.simplychi.co.uk](https://simplychi.co.uk/)
 
@@ -27,9 +28,13 @@ Master Mark Corcoran
 
 Instructors Col Maggs and Rin Hands
 
-[Web: www.cambridgekungfu.com](https://cambridgekungfu.com/taichi)
+[www.cambridgekungfu.com](https://cambridgekungfu.com/taichi)
 
-### Germany
+&emsp;
+
+#### ![flag de](de.gif) Germany ![flag uk](de.gif)
+
+&emsp;
 
 **Bonn**
 
@@ -43,7 +48,12 @@ Instructor Dolores Doktor
 
 [www.doisme.de](https://www.doisme.de/) *(Site in German)*
 
-### Belgium
+&emsp;
+
+#### ![flag be](be.gif) Belgium ![flag uk](be.gif)
+
+&emsp;
+
 
 Instructor Tim Waterschoot
 

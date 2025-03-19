@@ -4,9 +4,9 @@
 
 Brian Jones was born in Dalston, East London on the 23rd of January 1939 and passed away surrounded by his loved ones on the 25th of February 2019 in Peterborough.
 
-![stone](images/stone.jpeg)
+![stone](images/deathstone.jpg)
 
-A British Martial Arts pioneer, holding black belts in Judo, Karate, Kun Tao Tai Qi, Black Tiger KungFu, Wing Chun and Escrima. Studying and practising various Martial Arts, eventually combining them in his own System, BJIKTS (Brian Jones Integrated Kun Tao System).
+A British Martial Arts pioneer, holding black belts in Judo, Karate, Chinese Karato, Kun Tao Tai Qi, Black Tiger KungFu, Wing Chun and Escrima. Studying and practising various Martial Arts, eventually combining them in his own System, BJIKTS (Brian Jones Integrated Kun Tao System).
 
 Father of Escrima in the UK.
 The first non occidental to learn Wing Chun in UK and maybe Europe.
@@ -26,13 +26,17 @@ Afterwards he took up a new challenge and began studying Wado-Ryu Karate under t
 
 *Tatsuo Suzuki was an 8th Dan Japanese karateka instrumental in spreading the martial art of Wadō-ryū karate to Europe and the United States. From 1956–1964, Suzuki formed the first Wado-Ryu Federation in England and from his base in London expanded throughout Europe.*
 
-![suzuki](images/Tatsuo_Suzuki.jpeg)
+![suzuki](images/legendary-wado-ryu-master-sensei-tatsuo-suzuki.jpg)
+
+*In the Beginners mind there are many possibilities, but in the expert's mind there are few. Master yourself until your questioning becomes certainty. #truthwarrior - Tatsuo Suzuki*
 
 &emsp;
 
 **Kun Tao Tai Qi**
 
-Brian became exposed to other forms of martial arts, such as Kun Tao Tai Qi (a Malay style of tai chi) when he was serving with the British Army in Malaya, studying under the late GrandMaster Leong Fu.
+Brian became exposed to other forms of martial arts, such as Kun Tao Tai Qi, Karato Atado and other forms of Kung-Fu when he was serving with the British Army in Malaya, studying under the late GrandMaster Leong Fu.
+
+![certificate karato](images/karatocertificate.jpg)
 
 *"Leong Fu, born in Malaysia of Chinese Parents, was from an early age instructed in Judo and Chinese Boxing. He became proficient in Kung Fu styles under the guidance of local monks. Before long he was hailed as an infant prodigy in these fighting arts and by the time he was twelve he was giving regular exhibitions against opponents twice his own weight and size. Eventually becoming an acomplished wrestler in international tournaments."*
 
@@ -58,11 +62,11 @@ Bravely, he asked if he could join in and be instructed but was quickly informed
 
 But Brian didn’t take no for an answer and kept going back to the restaurant for many weeks, until finally Wong agreed to show him some moves. From then on Brian became a regular student in these ‘hidden and secret’ basement classes, with that he became the first English student to be taught the system of Wing Chun in Great Britain.
 
-Greco Wong, the father of Wing Chun in England.
+**Greco Wong, the father of Wing Chun in England.**
 
-![greco wong](images/greco-wong-3.jpg)
+![greco wong](images/greco-wong-3.jpg "Picture from the first book ever published outside China about Wing Chun Kung Fu")
 
-[![yt video](images/tumbnailytgw.png)](https://www.youtube.com/watch?v=3H4zAF-MhrE&pp=ygUKZ3JlY28gd29uZw%3D%3D)
+[![yt video](images/tumbnailytgw.png "Click to view the Youtube documentary")](https://www.youtube.com/watch?v=3H4zAF-MhrE&pp=ygUKZ3JlY28gd29uZw%3D%3D)
 
 &emsp;
 
@@ -84,7 +88,7 @@ However, mainly weapons-based, Brian and his students were very impressed with L
 
 They formed the Philippine Martial Arts Society (PMAS) in 1976, with the aim to propagating the art.
 
-![brian rene](images/bjones07-300x204.jpg)
+![brian rene](images/Brian&Rene.jpg)
 
 &emsp;
 
@@ -96,9 +100,14 @@ Grand Master Brian Jones kept teaching his evolved Integrated Kun Tao System com
 
 Three years before his passing, in 2016 he recieved the British Martial Arts Lifetime Achievement Award.
 
-![award](images/BJ-lifetimeAward.jpeg)
+![award](images/Lifetimeaward.jpeg "Martial Arts Awards 2016")
+
+&emsp;
 
 From Brian’s passing onwards his Senior student Master Ricky Crofts is now the head of the system and continues to teach and spread the lifework of our late Grand Master and founder of Integrated Kun Tao.
+
+![ricky & rin](images/rickyandrinEscrima.jpeg "Ricky teaching Escrima in Bonn 2025")
+
 
 &emsp;
 
@@ -114,13 +123,13 @@ I started my training under Greco at his Chinese Restaurant in Seven Dials, Cove
 
 **We were the first club to introduce Escrima into Great Britain in the early 1970’s and we teach the Rene Latosa system. Myself (Brian Jones), Bill Newman and Jay Dobrin were the first fully certified Instructors in his system.**
 
-![brian bill jay](images/Bill%20Jay%20Brian.jpg "Brian, Bill & Jay")
+![brian bill jay](images/Bill-Jay-Brian.jpg "Brian, Bill & Jay")
 
-The form is my contribution to the Latosa system. It ingrains the techniques learnt, which is a great help when you come to take your Instructor grade.
+The form I created and teach is my contribution to the Latosa system. It ingrains the techniques learnt, which is a great help when you come to take your Instructor grade.
 
 &emsp;
 
-### Brian
+### *Brian*
 
 &emsp;
 

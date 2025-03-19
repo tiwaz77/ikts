@@ -1,6 +1,6 @@
 # About
 
-![alt text](BrianRicky-web.jpg "Ricky expressing the feeling of his teachers energy")
+![alt text](images/BrianRicky-web.jpg "Ricky expressing the feeling of his teachers energy")
 
 It was Brian’s vision to combine and blend all the different techniques and 
 concepts of the various styles he’d learned into the creation of a blended 
@@ -16,14 +16,16 @@ Comprised of three major styles: Tai Chi Chuan, Wing Chun and Escrima.
 
 # **Kun Tao Tai Chi Chuan**
 
-![taichi logo](logotaichi.jpg)
+![taichi logo](images/logotaichi.jpg)
 
-***
+&emsp;
 
 Is a Malaysian variation of the Long Form of the Yang Family, as it
 was taught by the late GM Leong Fu and our late GM Brian Jones.
 
-![fairlady](fairlady.jpg "Application of 'Fair lady works the shuttle' ")
+![fairlady](images/fairlady.jpg "Application of 'Fair lady works the shuttle' ")
+
+**First the empty hand forms and applications**
 
 108 moves on the right side, then on the left hand side which balances the body
 
@@ -39,7 +41,7 @@ Five Steps and Entrances of Kun Tao Tai Chi (Ta Lu - four corner exercise)
 
 &emsp;
 
-This is followed by the Kun Tao Tai Chi Chuan Weapons
+**This is followed by the Kun Tao Tai Chi Chuan Weapons**
 
 Narrow Sword ("Fan optional for women")
 
@@ -47,7 +49,7 @@ Broad Sword
 
 Spear
 
-![alt text](rickyspear.JPG "Ricky showing how to use the spear under watchfull eye of his teacher")
+![alt text](images/rickyspear.JPG "Ricky showing how to use the spear under watchfull eye of his teacher")
 
 &emsp;
 
@@ -57,7 +59,7 @@ Is the system as it was taught to GM Brian by GM Wong Waichung / Greco Wong.
 
 Additionally influences from the unarmed side of Escrima (Kadena de mano) have been implemented as part of the complete Integrated Kun Tao System.
 
-![wingchun](wingchun.JPG "Master Jay Dobrin interacting with his teacher GM Brian Jones")
+![wingchun](images/wingchun.JPG "Master Jay Dobrin interacting with his teacher GM Brian Jones")
 
 The Traditional Wing Chun Syllabus comprises of:
 
@@ -88,7 +90,7 @@ Is a Filipino Martial Art with focus on weapons such as sticks, machettes and kn
 
 The Latosa system is simple and direct, it revolves around five strikes. 
 
-![escrima](escrima.JPG "Brian and Ricky teaching Escrima in Belgium 2009")
+![escrima](images/escrima.JPG "Brian and Ricky teaching Escrima in Belgium 2009")
 
 The five strikes gives the basis for all attacks and defences, combined with triangle footwork and eliptial motion of movements.
 
@@ -104,7 +106,7 @@ An unarmed two person set which integrates all three arts.
 
 Two forms specially designed for the Kuntao knives
 
-![knives](kuntao-knives.jpg "Kuntao knives")
+![knives](images/kuntao-knives.jpg "Kuntao knives")
 
 Basic self-defence techniques
 
@@ -118,8 +120,8 @@ and more...
 
 # **Grading**
 
-Gradings are optional and/or awarded on merit and dedication.
+Gradings are optional. Brian seldom graded to pass an exam, his grades were awarded for constant practice and over sustained periods. This practise will continue to be used under the guidance of Master Ricky.
 
-![certificate](certificate.jpeg "Official certificate")
+![certificate](images/certificate.jpeg "Official certificate")
 
-![Grading Bonn 2025](grading2025.jpeg "Grading awarded in Bonn 2025")
+![Grading Bonn 2025](images/grading2025.jpeg "Grading awarded in Bonn 2025")
