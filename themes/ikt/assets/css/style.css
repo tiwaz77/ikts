@@ -1,6 +1,7 @@
 /*
 Theme Name: Integrated Kun Tao
 Author: Koen Van Hul
+Edited by: Tim Waterschoot
 Description: Theme for the Integrated Kun Tao website
 Version: 0.0.1
 Tags: Integrated Kun Tao
@@ -15,23 +16,26 @@ Tags: Integrated Kun Tao
 }
 
 .font-gothic {
-    font-family: "Conv_ag17th", "Times New Roman", Times, serif, Tahoma;    
+    font-family: "Conv_ag17th", Tahoma;    
 }
+
 
 .ikt-header {
     color: #fff;
-    background-color: #3a3838;
-    height:350px;
+    background-color: #000;
+    height:250px;
 }
 
 .ikt-logo {
     background-image: url('../images/iktwhite.png');
     width: 200px;
     height: 200px;
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
     margin: 20px 25px 20px 25px;
     float: left;
 }
-
 .float-end {
     float: right;
 }
@@ -40,9 +44,13 @@ body {
     padding: 0;
     margin: 0;
 }
-
+header {
+    color: #fff;
+    background-color: #000;
+    height:350px;
+}
 header img {
-    float: left;
+    float: none;
     margin: 20px 25px 20px 25px;
 }
 
@@ -52,33 +60,9 @@ header h1 {
     font-weight: normal;
     font-size: 26px;
     line-height: 150%;
-    margin: 20px 15px;
+    margin: 20px 25px 20px 25px;
+    padding-right: 25%;
     float: right;
-}
-
-header h2 {
-    color: #ccc;
-    font-family: 'Conv_ag17th';
-    font-weight: normal;
-    font-size: 26px;
-    line-height: 150%;
-    margin: 20px 15px;
-    float: right;
-}
-
-header h3 {
-    color: #ccc;
-    font-family: 'Conv_ag17th';
-    font-weight: normal;
-    font-size: 26px;
-    line-height: 150%;
-    margin: 20px 15px;
-    float: right;
-}
-
-article h2 {
-    font-family: "Conv_ag17th", Verdana, Geneva, Tahoma, sans-serif;
-    margin: 30px;
 }
 
 section {
@@ -91,11 +75,7 @@ section {
 img {
     max-width: 100%;
     height: auto;
-}
-
-section h3 {
-    font-family: "Conv_ag17th", Verdana, Geneva, Tahoma, sans-serif;
-    margin-left: -20px;
+    border-radius: 20px;
 }
 
 footer {
@@ -112,7 +92,9 @@ footer {
 @media screen and (min-width: 734px) {
     .ikt-header {
         background-image: url(../images/headerbg.jpg);
+        background-color: black;
         background-repeat: no-repeat;
         background-position: center;
+        height: 350px
     }
 }
