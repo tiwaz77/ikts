@@ -1,5 +1,5 @@
 # Welcome to 
-#### the homepage of
+#### The Homepage of
 #### Integrated KunTao
 #### A Martial Art System comprised of three ancient martial arts
 &emsp;
@@ -7,11 +7,11 @@
 
 &emsp;
 
-About BJIKTS [Brian Jones Integrated Kun Tao System](about). 
-
 Head of the system [Master Ricky Crofts](ricky).
 
 Originally founded and developed by [GM Brian Jones](brian), 
+
+About BJIKTS [Brian Jones Integrated Kun Tao System](about). 
 
 &emsp;
 
