@@ -29,10 +29,11 @@ Tags: Integrated Kun Tao
 
 .ikt-logo {
     background-image: url('../images/iktwhite.png');
+    display: table-cell;
     width: 200px;
     height: 200px;
-    float:none;
-    background-position: center;
+    text-align: center;
+    vertical-align: middle;
 }
 
 .float-end {
