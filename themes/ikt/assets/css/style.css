@@ -24,16 +24,14 @@ Tags: Integrated Kun Tao
     color: #fff;
     background-color: #000;
     text-align: center;
-    height:350px;
 }
 
 .ikt-logo {
     background-image: url('../images/iktwhite.png');
-    display: table-cell;
     width: 200px;
     height: 200px;
-    text-align: center;
-    vertical-align: middle;
+    margin: auto;
+    vertical-align: middle
 }
 
 .float-end {
@@ -80,7 +78,7 @@ footer {
     vertical-align: bottom;
 }
 
-@media screen and (min-width: 734px) {
+@media screen and (min-width: 480px) {
     .ikt-header {
         background-image: url(../images/headerbg.jpg);
         background-color: black;
