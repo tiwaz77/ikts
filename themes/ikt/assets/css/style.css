@@ -38,6 +38,11 @@ Tags: Integrated Kun Tao
     float: right;
 }
 
+.aligncenter {
+    text-align: center;
+    margin: auto;
+}
+
 body {
     padding: 0;
     margin: 0;
